@@ -1,7 +1,9 @@
 # esx_shopjob
 
 Este Script es totalmente configurable y te da oportunidad de crear locales para que tus usuarios ejerzan el rol de vendedor.
+
 Funciona con el esx_society, por lo cual podran tener empleados y gestionarlos si asi lo deseas.
+
 Esta bastante reducido a su función para que no sea muy pesado.
 
 Todos los objetos que pueden vender son configurables en el config.lua 
