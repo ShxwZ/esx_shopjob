@@ -1,4 +1,4 @@
-# esx_shopjob
+# esx_shopjob (Only Spanish es.lua)
 
 Este Script es totalmente configurable y te da oportunidad de crear locales para que tus usuarios ejerzan el rol de vendedor.
 
