@@ -244,7 +244,7 @@ function OpenGetStocksMenu()
     ESX.UI.Menu.Open(
       'default', GetCurrentResourceName(), 'stocks_menu',
       {
-        title    = _U('put_stock'),
+        title    = _U('get_stock'),
 		align    = 'right',
         elements = elements
       },
@@ -305,7 +305,7 @@ function OpenPutStocksMenu()
     ESX.UI.Menu.Open(
       'default', GetCurrentResourceName(), 'stocks_menu',
       {
-        title    = _U('get_stock'),
+        title    = _U('put_stock'),
 		align    = 'right',
         elements = elements
       },
