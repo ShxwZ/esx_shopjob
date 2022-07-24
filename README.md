@@ -9,7 +9,7 @@ Esta bastante reducido a su función para que no sea muy pesado.
 Todos los objetos que pueden vender son configurables en el config.lua 
 
 ## Características:
-+ Establecer tienda en el maoa
++ Establecer tienda en el mapa
 + Configurar vehiculos + sus características como velocidad, color...
 + Markers indivicuales configurables
 + Armario para objetos
