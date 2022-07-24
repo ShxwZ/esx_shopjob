@@ -11,7 +11,7 @@ Todos los objetos que pueden vender son configurables en el config.lua
 ## Características:
 + Establecer tienda en el mapa
 + Configurar vehiculos + sus características como velocidad, color...
-+ Markers indivicuales configurables
++ Markers individuales configurables
 + Armario para objetos
 + Posibilidad de comprar articulos (empleados del local) para su venta
 
