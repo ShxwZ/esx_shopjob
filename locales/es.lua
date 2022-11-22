@@ -14,7 +14,7 @@ Locales['es'] = {
   ['store_vehicle'] = 'Presionar ~INPUT_CONTEXT~ para guardar un vehículo',
   ['service_max'] = 'Demasiados empleados conectados : ',
   -- Boss Menu
-  ['take_company_money'] = 'Retirar dinero de la empresa',
+  ['take_company_money'] = ' Retirar dinero de la empresa',
   ['deposit_money'] = 'Depositar dinero en la empresa',
   ['amount_of_withdrawal'] = 'Cantidad a retirar',
   ['invalid_amount'] = 'Cantidad inválida',
