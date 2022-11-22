@@ -8,7 +8,7 @@ Locales['es'] = {
   ['buy_items2'] = '❄ Comprar stock',
   ['open_armory'] = 'Presionar ~INPUT_CONTEXT~ para acceder al armario',
   -- Vehicles
-  ['vehicle_menu'] = '🚗 Vehículos',
+  ['vehicle_menu'] = '🚗 Vehículos ',
   ['vehicle_out'] = 'Ya tienes un vehículo fuera',
   ['vehicle_spawner'] = 'Presionar ~INPUT_CONTEXT~ para sacar un vehículo',
   ['store_vehicle'] = 'Presionar ~INPUT_CONTEXT~ para guardar un vehículo',
